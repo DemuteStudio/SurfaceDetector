@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "DM Surface Detection",
+	"Description": "Runtime surface detection system for footstep and movement audio. Includes line trace utilities, surface mapping data assets, and MetaSound integration for dynamic audio playback based on physical materials.",
+	"Category": "Audio",
+	"CreatedBy": "Demute Studio",
+	"CreatedByURL": "https://www.demute.studio/",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/DemuteStudio/UnrealAudioTools",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DM_SurfaceDetector",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
